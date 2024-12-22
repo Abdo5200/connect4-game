@@ -115,7 +115,7 @@ I2C3_Init();
     done=0;
 				OLED_Clear();
 				LED_Off(GPIO_PORTB, GPIO_PIN_2);
-				LED_Off(GPIO_PORTB, GPIO_PIN_2);
+				LED_Off(GPIO_PORTB, GPIO_PIN_5);
 
 		}
 }
